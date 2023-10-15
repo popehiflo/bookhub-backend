@@ -1,0 +1,11 @@
+,-----.                ,--.    ,--.  ,--.        ,--.
+|  |) /_  ,---.  ,---. |  |,-. |  '--'  |,--.,--.|  |-.
+|  .-.  \| .-. || .-. ||     / |  .--.  ||  ||  || .-. '
+|  '--' /' '-' '' '-' '|  \  \ |  |  |  |'  ''  '| `-' |
+`------'  `---'  `---' `--'`--'`--'  `--' `----'  `---'
+ ${application.title} ${application.version}
+ ${application.description}
+ ${application.url}
+ ${application.author} - ${application.author.name}
+ ${application.author.email}
+ Spring Boot ${spring-boot.version}
