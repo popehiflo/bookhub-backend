@@ -1,8 +1,7 @@
-package io.github.popehiflo.bookhub_backend;
+package io.github.popehiflo.bookhub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication
 public class BookhubBackendApplication {
